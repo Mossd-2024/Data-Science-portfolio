@@ -8,10 +8,10 @@ I am a data scientist with a background in quantitative psychology and experienc
 
 ## How to Navigate Portfolio Structure
 
-#### This portfolio contains three major folders of interest to interested employers:
-	- **Projects:** Contains two folders, one with rigorous peer-reviewed quality research papers, and another for other projects of interest to potential employers
-	- **Visualizations:** Showcases examples of impactful visualizations I have created demonstrating business use-case value
-	- **Tutorials:** Contains training scripts for R coding and Applied Linear regression. Representative of some of the previous mentoring/training responsibilities I've held
+#### This portfolio contains three major folders of interest to interested employers
+- **Projects:** Contains two folders, one with rigorous peer-reviewed quality research papers, and another for other projects of interest to potential employers
+- **Visualizations:** Showcases examples of impactful visualizations I have created demonstrating business use-case value
+- **Tutorials:** Contains training scripts for R coding and Applied Linear regression. Representative of some of the previous mentoring/training responsibilities I've held
 
 
 ## README Files Overview (Find Examples of Specific Skills)
@@ -23,6 +23,6 @@ In each project's README file, you will find a section at the beginning highligh
 
 Feel free to reach out to me via email or connect with me on linkedin
 
-**Email:** mossd2@gmail.com
+**Email:** mossd2024@gmail.com
 **Linkedin**: [Diego Moss](www.linkedin.com/in/diego-moss-0941252a2)
 
